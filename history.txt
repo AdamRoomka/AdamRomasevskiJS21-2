@@ -1,0 +1,94 @@
+    1  git config --global user.email "adam.romasevski@stud.vtmc.lt"
+    2  git config --global user.name "AdamRoomka"
+    3  ssh-keygen -t ed25519 -C "adam.romas12@gmail.com"
+    4  git clone git@github.com:AdamRoomka/Headdanal.git
+    5  git clone git@github.com:AdamRoomka/Headdanal.git
+    6  clip < ~/.ssh/id_ed25519.pub
+    7  git clone git@github.com:AdamRoomka/Headdanal.git
+    8  git clone git@github.com:AdamRoomka/Headdanal.git
+    9  cd headdanal
+   10  git branch
+   11  git add .
+   12  git add .
+   13  git commit -m "id added"
+   14  git push origin main
+   15  git commit -m "id added"
+   16  git add .
+   17  git add .
+   18  git switch -c "added_id"
+   19  git add .
+   20  git status
+   21  git add .
+   22  git commit -m "id added"
+   23  git push origin added_id
+   24  git branch
+   25  git branch main
+   26  git switch main
+   27  git status
+   28  git pull
+   29  git status
+   30  git clone git@github.com:AdamRoomka/Headdanal.git
+   31  code .
+   32  git status
+   33  git clone git@github.com:AdamRoomka/Headdanal.git
+   34  GIT INIT
+   35  git init AdamRomasevskiJS21-2
+   36  cd AdamRomasevskiJS21-2/
+   37  git branch
+   38  git checkout
+   39  touch studentas.txt
+   40  echo "Adam Romasevski" studentas.txt 
+   41  type echo "Adam Romasevski" studentas.txt 
+   42  echo "Adam Romasevski" >> studentas.txt
+   43  git commit -am "sucommitinkite"
+   44  git status
+   45  git add .
+   46  git commit -m "sucommitinkite"
+   47  git status
+   48  git init AdamRomasevskiJS21-2
+   49  cd AdamRomasevskiJS21-2/
+   50  touch studentas.txt
+   51  git add .
+   52  git commit -m "vardas"
+   53  git add .
+   54  git commit -m "vardas ir pavarde"
+   55  git log
+   56  git log --stat > log.log
+   57  git ignore
+   58  gitignore
+   59  .gitignore
+   60  gitignore *
+   61  gitignore .
+   62  git ignore .
+   63  git ignore log.log
+   64  gitignore log.log
+   65  .gitignore log.log
+   66  touch gitignore.gitignore
+   67  git config --global core.excludesFile ~/.gitignore
+   68  $XDG_CONFIG_HOME/git/ignore, $GIT_DIR/info/exclude, .gitignore
+   69  [200~$ git switch -c
+   70  git remote add origin git@github.com:AdamRoomka/AdamRomasevskiJS21-2.git
+   71  git push -u origin master
+   72  git add .
+   73  git commit -m "nauja"
+   74  git push origin master
+   75  git branch
+   76  git switch -c JS21-2
+   77  git add .
+   78  git commit -m "grupes_numeris"
+   79  git switch master
+   80  git pull origin master
+   81  git pull origin master
+   82  git switch JS21-2 
+   83  git merge master 
+   84  code .
+   85  git merge master 
+   86  git add .
+   87  git commit -m "merged"
+   88  git push origin JS21-2 
+   89  git switch master 
+   90  git pull origin master 
+   91  git branch -d JS21-2 
+   92  git add .
+   93  git commit -m "paskutinis commitas"
+   94  history > history.txt
